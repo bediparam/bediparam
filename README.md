@@ -79,6 +79,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bediparam/bediparam/output/snake.svg" alt="Snake animation" />
+### 🚧 Current Projects & Learning
+
+<!-- Project Cards -->
+**🧩 Active Development**  
+[![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/your-chrome-extension-repo)  
+> Learning to build productivity-focused Chrome extensions.
+
+**📚 Continuous Learning**  
+![LeetCode](https://img.shields.io/badge/DSA_Progress-50%25-green?style=flat-square&logo=leetcode)
+![Azure](https://img.shields.io/badge/Azure_Certifications-In_Progress-blue?style=flat-square&logo=microsoft-azure)
+
 
 ###

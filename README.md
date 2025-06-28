@@ -83,8 +83,8 @@
 
 <!-- Project Cards -->
 **🧩 Active Development**  
-[![Web Game Development](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/your-chrome-extension-repo)  
-> Learning to build productivity-focused Chrome extensions.
+![Web Games Development](https://img.shields.io/badge/Web%20Games%20Development-yellow?style=for-the-badge&logo=javascript&logoColor=black) 
+> Learning Web Games Development.
 
 **📚 Continuous Learning**  
 ![LeetCode](https://img.shields.io/badge/DSA_Progress-50%25-green?style=flat-square&logo=leetcode)
